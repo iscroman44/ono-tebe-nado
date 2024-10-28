@@ -16,11 +16,11 @@
   list-style: circle;
 }
 
-.header__links-list-item_no-bullit{
+.header__links-list-item_no-bullit {
   list-style: none;
 }
 
-.header__link_active{
+.header__link_active {
   text-decoration: none;
 }
 
@@ -63,7 +63,7 @@
   text-transform: uppercase;
 }
 
-.aligned-text{
+.aligned-text {
   display: block;
 }
 
@@ -85,7 +85,7 @@
   letter-spacing: 0;
 }
 
-.cover__description{
+.cover__description {
   position: relative;
   z-index: 2;
   display: flex;
